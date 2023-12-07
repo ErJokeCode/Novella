@@ -16,6 +16,7 @@ https://drive.google.com/drive/folders/1uDjqyctbZze0pEhHbxeLhAzZSz-w6PoK?usp=sha
 
 ### Дизайн
 https://drive.google.com/drive/folders/1mlE_CDBt9VK2XqC5MTA3EhKMQonpzIN4?usp=drive_link
+https://www.figma.com/file/8yz2rrbrl3dcWvBkHp9RZ2/Visual-novel?type=design&node-id=16-2&mode=design&t=8qa7IXYj4Ck36a7S-0
 
 ### Рализы 
 ................
