@@ -19,7 +19,8 @@ https://drive.google.com/drive/folders/1mlE_CDBt9VK2XqC5MTA3EhKMQonpzIN4?usp=dri
 https://www.figma.com/file/8yz2rrbrl3dcWvBkHp9RZ2/Visual-novel?type=design&node-id=16-2&mode=design&t=8qa7IXYj4Ck36a7S-0
 
 ### Рализы 
-1.0 https://github.com/ErJokeCode/Novella/releases/tag/Novel
+1.0 https://github.com/ErJokeCode/Novella/releases/tag/v1.0
+1.1 https://github.com/ErJokeCode/Novella/releases/tag/v1.1
 
 ## Состав команды MAFIA V
 Соловьёв Эрик / Тимлид
