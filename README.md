@@ -48,7 +48,7 @@ https://www.figma.com/file/8yz2rrbrl3dcWvBkHp9RZ2/Visual-novel?type=design&node-
 
 1.3 https://github.com/ErJokeCode/Novella/releases/tag/v1.3
 
-### Все рализы 
+### Все релизы 
 1.0 https://github.com/ErJokeCode/Novella/releases/tag/v1.0
 
 1.1 https://github.com/ErJokeCode/Novella/releases/tag/v1.1
